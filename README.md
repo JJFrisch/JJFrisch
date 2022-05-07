@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @JJFrisch
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Jake Frischmann
+- 👀 I’m interested in Computer Science!! and Data Science!!
+- 🌱 I’m currently in high school
+- 📫 Reach me at jjfrisch@outlook.com
+- My favorite languages so far:
+- Java, Python, JS(CSS-HTML), C#(Unity)
 
 <!---
 JJFrisch/JJFrisch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
