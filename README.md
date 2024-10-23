@@ -3,7 +3,7 @@
 - 🌱 I’m currently in high school
 - 📫 Reach me at jjfrisch@outlook.com
 - My favorite languages so far:
-- Java, Python, JS(CSS-HTML), C#(Unity)
+- Java, Python, JS (CSS-HTML), C# (MAUI or Unity)
 
 <!---
 JJFrisch/JJFrisch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
