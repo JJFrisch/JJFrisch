@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Jake Frischmann.
 
-I’m interested in Computer Science and Data Science.
+I’m interested in Computer Science, Applied Physics Data Science.
 
-I’m currently attending Conestoga high school in Berwyn, PA.
+I’m currently attending University of Maryland, College Park.
 
 Reach me at jjfrisch@outlook.com.
 
