@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Jake Frischmann  
-**Computer Scientist | Aspiring Researcher | Problem Solver**  
+**Computer Scientist | Aspiring Researcher**  
 
 📍 Wayne, PA | 📧 [Email](mailto:JJFrisch@outlook.com) | [LinkedIn](#) | [Portfolio](#)
 
