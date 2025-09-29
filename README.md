@@ -19,7 +19,7 @@ I’m a dual-degree student in **Computer Science & Physics** at the University 
 ### **BlokusDuo Game Agents** (2024)  
 ![BlokusDuo GIF or Screenshot](link-to-gif-or-image)  
 - Developed AI agents using **Proximal Policy Optimization** and **Monte Carlo Tree Search** with CNNs in **PyTorch**.  
-- Published a **20-page research paper** in the PGSS Journal on **strategic play and human vs AI game theory**.  
+- Published a **20-page research paper** in the PGSS Journal about **strategic play and human vs AI game theory**.  
 - Explored how AI strategies evolve in competitive games, combining reinforcement learning with heuristic planning.  
 
 ---
