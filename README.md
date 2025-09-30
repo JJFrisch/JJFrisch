@@ -17,7 +17,7 @@ I’m a dual-degree student in **Computer Science & Physics** at the University 
 ## Featured Projects
 
 ### **BlokusDuo Game Agents** (2024)  
-[a link](https://github.com/JJFrisch/BlokusDuo/blob/main/P6%20Game%20Strategy%20Team%20Project%20Research%20Paper.docx.odt)
+[Blokus Duo: Using Deep Search Algorithms to Explore Turn-Based Game Strategy](https://github.com/JJFrisch/BlokusDuo/blob/main/P6%20Game%20Strategy%20Team%20Project%20Research%20Paper.docx.odt)
 - Developed AI agents using **Proximal Policy Optimization** and **Monte Carlo Tree Search** with CNNs in **PyTorch**.  
 - Published a **20-page research paper** in the PGSS Journal about **strategic play and human vs AI game theory**.  
 - Explored how AI strategies evolve in competitive games, combining reinforcement learning with heuristic planning.  
