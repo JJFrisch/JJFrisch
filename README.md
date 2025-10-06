@@ -6,7 +6,7 @@
 ---
 
 ## About Me
-I’m a dual-degree student in **Computer Science & Physics** at the University of Maryland. My work spans **software development**, **AI research**, and **hardware prototyping**. I have a passion for solving complex problems and I am looking to get involved in bioinformtaics. When I’m not coding, you can find me playing pick-up soccer or reading a fantasy novel.
+I’m a dual-degree student in **Computer Science & Physics** at the University of Maryland. My work spans software development, machine learning, and 3D modeling/printing. I have a passion for the more math involved aspects of computer science and I am looking to get involved in bioinformtaics. When I’m not coding, you can find me playing pick-up soccer or reading a fantasy novel.
 
 - **Languages & Tools:** Python, C, C++, Java, C#, Rust, Assembly, JavaScript, Linux  
 - **Frameworks & Libraries:** PyTorch, TensorFlow, .NET MAUI, Unity, SolidWorks  
@@ -18,15 +18,16 @@ I’m a dual-degree student in **Computer Science & Physics** at the University 
 
 ### **BlokusDuo Game Agents** (2024)  
 [Blokus Duo: Using Deep Search Algorithms to Explore Turn-Based Game Strategy](https://github.com/JJFrisch/BlokusDuo/blob/main/P6%20Game%20Strategy%20Team%20Project%20Research%20Paper.docx.odt)
-- Developed AI agents using **Proximal Policy Optimization** and **Monte Carlo Tree Search** with CNNs in **PyTorch**.  
-- Published a **20-page research paper** in the PGSS Journal about **strategic play and human vs AI game theory**.  
+- Developed AI agents using Proximal Policy Optimization and Monte Carlo Tree Search with CNNs in PyTorch.  
+- Published a 20-page research paper in the PGSS Journal about strategic play and human vs AI game theory.  
 - Explored how AI strategies evolve in competitive games, combining reinforcement learning with heuristic planning.  
 
 ---
 
 ### **SpiRob: Soft Robotics for Material Science** (2025)  
 ![SpiRob GIF or Screenshot](link-to-gif-or-image)  
-- Designed a **tentacle-style gripper** in **SolidWorks**, 3D-printed and actuated with **stepper motors**.  
+I was part of the Zheng Research Lab at Drexel for an internship. I worked with Dr. Yue Zheng and Jeffery Walker.
+- Helped design a tentacle style gripper in SolidWorks, 3D-printed and actuated with stepper motors.  
 - Emphasis on **reproducibility**, **low-cost design**, and integration with modular robotics systems.  
 - Plan to simulate full control in **MuJoCo and Isaac Gym** with reinforcement learning for collaborative manipulation tasks.  
 
