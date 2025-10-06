@@ -26,7 +26,7 @@ I’m a dual-degree student in **Computer Science & Physics** at the University 
 
 ### **SpiRob: Soft Robotics for Material Science** (2025)  
 ![SpiRob GIF or Screenshot](link-to-gif-or-image)  
-I was part of the Zheng Research Lab at Drexel for an internship. I worked with Dr. Yue Zheng and Jeffery Walker.
+I was part of the Zheng Research Lab at Drexel for an internship. I worked with Dr. Yue Zheng and Masters student Jeffery Walker.
 - Helped design a tentacle style gripper in SolidWorks, 3D-printed and actuated with stepper motors.  
 - Emphasis on **reproducibility**, **low-cost design**, and integration with modular robotics systems.  
 - Plan to simulate full control in **MuJoCo and Isaac Gym** with reinforcement learning for collaborative manipulation tasks.  
