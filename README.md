@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Jake Frischmann  
 **Computer Scientist | Aspiring Researcher**  
 
-📍 Wayne, PA | 📧 [Email]: JJFrisch@outlook.com(mailto:JJFrisch@outlook.com)
+📍 Wayne, PA | 📧 [Email: JJFrisch@outlook.com](mailto:JJFrisch@outlook.com)
 
 ---
 
