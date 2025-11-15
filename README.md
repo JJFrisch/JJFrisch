@@ -6,7 +6,7 @@
 ---
 
 ## About Me
-I’m a dual-degree student in **Computer Science & Physics** at the University of Maryland. My work spans software development, machine learning, and 3D modeling/printing. I have a passion for the more math involved aspects of computer science and I am looking to get involved in bioinformtaics. When I’m not coding, you can find me playing pick-up soccer or reading a fantasy novel.
+I’m a dual-degree student in Computer Science & Physics at the University of Maryland. My work spans software development, machine learning, and 3D modeling/printing. I have a passion for the more math involved aspects of computer science and I am looking to get involved in bioinformtaics. When I’m not coding, you can find me playing pick-up soccer or reading a fantasy novel.
 
 - **Languages & Tools:** Python, C, C++, Java, C#, Rust, Assembly, JavaScript, Linux  
 - **Frameworks & Libraries:** PyTorch, TensorFlow, .NET MAUI, Unity, SolidWorks  
@@ -25,27 +25,26 @@ I’m a dual-degree student in **Computer Science & Physics** at the University 
 ---
 
 ### **SpiRob: Soft Robotics for Material Science** (2025)  
-![SpiRob GIF or Screenshot](link-to-gif-or-image)  
+ 
 I was part of the Zheng Research Lab at Drexel for an internship. I worked with Dr. Yue Zheng and Masters student Jeffery Walker.
 - Helped design a tentacle style gripper in SolidWorks, 3D-printed and actuated with stepper motors.  
-- Emphasis on **reproducibility**, **low-cost design**, and integration with modular robotics systems.  
-- Plan to simulate full control in **MuJoCo and Isaac Gym** with reinforcement learning for collaborative manipulation tasks.  
+- Emphasis on reproducibility, low-cost design, and integration with modular robotics systems.  
 
 ---
 
 ### **Maze Escape** (2023–present)  
-![Maze Escape GIF or Screenshot](link-to-gif-or-image)  
-- Mobile + PC game in **C# and .NET MAUI** that generates and solves mazes with multiple algorithms and strategies.  
-- Features **custom skins, power-ups, multiple worlds**, and hand-crafted artwork.  
+
+- Mobile + PC game in C# and .NET MAUI that generates and solves mazes with multiple algorithms and strategies.  
+- Features custom skins, power-ups, multiple worlds, and daily challenges.  
 - Focused on algorithm efficiency, user experience, and extensible game design.  
 
 ---
 
 ### **Screen Time & Adolescent Anxiety Study** (2024)  
-![Data Visualization GIF or Chart](link-to-gif-or-image)  
-- Conducted a **200-person randomized stratified survey**; developed a novel **self-report method** using phone screen-time logs.  
-- Applied **statistical analysis** to identify correlations between childhood screen exposure and anxiety.  
-- Produced a research paper presenting **significant findings** and innovative data collection methodology.  
+
+- Conducted a 200-person randomized stratified survey; developed a two-part self-report method using phone screen-time logs.  
+- Applied basic statistical analysis to identify correlations between childhood screen exposure and anxiety.  
+- Produced a research paper presenting significant findings and innovative data collection methodology.  
 
 
 
@@ -58,5 +57,5 @@ I was part of the Zheng Research Lab at Drexel for an internship. I worked with 
 ---
 
 ## Let’s Connect
-I’m always open to **collaboration, research discussions, and software projects**. Reach out via [email](mailto:JJFrisch@outlook.com) or connect with me on [LinkedIn](#).  
+I’m always open to collaboration, research discussions, and software projects. Reach out via [email](mailto:JJFrisch@outlook.com).  
 
