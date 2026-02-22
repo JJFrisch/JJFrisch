@@ -1,61 +1,66 @@
-# Hi there 👋, I'm Jake Frischmann  
-**Computer Scientist | Aspiring Researcher**  
+# Jake Frischmann (JJFrisch)
+**Computer Science + Physics • ML/RL • Robotics/Controls • Research-minded builder**
 
-📍 Wayne, PA | 📧 [Email: JJFrisch@outlook.com](mailto:JJFrisch@outlook.com)
-
----
-
-## About Me
-I’m a dual-degree student in Computer Science & Physics at the University of Maryland. My work spans software development, machine learning, and 3D modeling/printing. I have a passion for the more math involved aspects of computer science and I am looking to get involved in bioinformtaics. When I’m not coding, you can find me playing pick-up soccer or reading a fantasy novel.
-
-- **Languages & Tools:** Python, C, C++, Java, C#, Rust, Assembly, JavaScript, Linux  
-- **Frameworks & Libraries:** PyTorch, TensorFlow, .NET MAUI, Unity, SolidWorks  
-- **Skills:** Neural networks, data analysis, visualization, system design, problem framing  
+Wayne, PA • [JJFrisch@outlook.com](mailto:JJFrisch@outlook.com)
 
 ---
 
-## Featured Projects
+## About me
+I’m a dual-degree student in **Computer Science & Physics** at the **University of Maryland**. I like projects where the math matters—reinforcement learning, search, modeling, and systems where performance and correctness are measurable. I’m also interested in getting more involved in **bioinformatics**.
 
-### **BlokusDuo Game Agents** (2024)  
-[Blokus Duo: Using Deep Search Algorithms to Explore Turn-Based Game Strategy](https://docs.google.com/document/d/1t95HiT_Vk48AHe5BSArWpV6ObkvVYfmjIF5mwMdtEJw/edit?usp=sharing)
-- Developed AI agents using Proximal Policy Optimization and Monte Carlo Tree Search with CNNs in PyTorch.  
-- Published a 20-page research paper in the PGSS Journal about strategic play and human vs AI game theory.  
-- Explored how AI strategies evolve in competitive games, combining reinforcement learning with heuristic planning.  
+Outside of school and projects: pick-up soccer and fantasy novels.
 
----
-
-### **SpiRob: Soft Robotics for Material Science** (2025)  
- 
-I was part of the Zheng Research Lab at Drexel for an internship. I worked with Dr. Yue Zheng and Masters student Jeffery Walker.
-- Helped design a tentacle style gripper in SolidWorks, 3D-printed and actuated with stepper motors.  
-- Emphasis on reproducibility, low-cost design, and integration with modular robotics systems.  
+**Languages & tools:** Python, C/C++, Java, C#, Rust, Assembly, JavaScript/TypeScript, Linux, Git  
+**Frameworks & libraries:** PyTorch, TensorFlow, .NET MAUI, Unity, SolidWorks  
+**Focus areas:** reinforcement learning + search, data analysis/visualization, algorithm design, prototyping + iteration
 
 ---
 
-### **Maze Escape** (2023–present)  
+## Main projects
+### RoadTrip — route planning + trip tooling (project)
+- A trip-planning project focused on turning destinations into an actionable plan: building itineraries, organizing stops, and exploring routing/constraint ideas (time, distance, and priorities).
+- Built as a portfolio piece to show practical engineering: clear UI/flow, iterative scope, and real-world problem framing.
 
-- Mobile + PC game in C# and .NET MAUI that generates and solves mazes with multiple algorithms and strategies.  
-- Features custom skins, power-ups, multiple worlds, and daily challenges.  
-- Focused on algorithm efficiency, user experience, and extensible game design.  
-
----
-
-### **Screen Time & Adolescent Anxiety Study** (2024)  
-
-- Conducted a 200-person randomized stratified survey; developed a two-part self-report method using phone screen-time logs.  
-- Applied basic statistical analysis to identify correlations between childhood screen exposure and anxiety.  
-- Produced a research paper presenting significant findings and innovative data collection methodology.  
-
-
+Repo: https://github.com/JJFrisch/RoadTrip
 
 ---
 
-## GitHub Stats
-![Jake's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JJFrisch&show_icons=true&theme=radical)  
+### BlokusDuo — AI agents (PPO + MCTS + CNN)
+**2024** • Python / PyTorch  
+- Built agents using **Proximal Policy Optimization (PPO)** and **Monte Carlo Tree Search (MCTS)** with CNN-based evaluation/policy components.
+- Ran large-scale self-play experiments and analyzed strategy evolution in a competitive, spatial board game.
+- Write-up: https://docs.google.com/document/d/1t95HiT_Vk48AHe5BSArWpV6ObkvVYfmjIF5mwMdtEJw/edit?usp=sharing
+
+Repo: https://github.com/JJFrisch/BlokusDuo
+
+---
+
+### MazeEscape — cross-platform maze puzzle game (.NET MAUI)
+**2023–present** • C# / .NET MAUI  
+- Cross-platform puzzle game with campaign progression and daily mazes.
+- Maze generation/solving focus, plus extensible progression content (skins, worlds, unlocks).
+
+Repo: https://github.com/JJFrisch/MazeEscape
+
+---
+
+### SpiRobControls — soft robotics prototyping + actuation experiments
+**2025** • CAD / 3D printing / Arduino  
+- Internship work with Drexel’s Zheng Research Lab on soft robotic actuation prototypes and documentation.
+
+Repo: https://github.com/JJFrisch/SpiRobControls
+
+## Other repos worth a look
+- Fake News Risk Identification: https://github.com/JJFrisch/Fake-News-Risk-Identification  
+- Medication Management (UI prototype): https://github.com/JJFrisch/Medication_Management_Windows
+
+---
+
+## GitHub stats
+![Jake's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JJFrisch&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JJFrisch&layout=compact&theme=radical)
 
 ---
 
-## Let’s Connect
-I’m always open to collaboration, research discussions, and software projects. Reach out via [email](mailto:JJFrisch@outlook.com).  
-
+## Let’s connect
+I’m open to collaboration, research discussions, and project work. Email me at [JJFrisch@outlook.com](mailto:JJFrisch@outlook.com).
