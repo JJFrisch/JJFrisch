@@ -6,7 +6,8 @@ Wayne, PA • [JJFrisch@outlook.com](mailto:JJFrisch@outlook.com) • **Resume:*
 ---
 
 ## About me
-I’m a dual-degree student in **Computer Science & Physics** at the **University of Maryland**. I like projects where the math matters—reinforcement learning, search, modeling, and systems where performance and correctness are measurable. I’m also interested in getting more involved in **bioinformatics**.
+I’m a dual-degree student in **Computer Science & Physics** at the **University of Maryland**. I am passionate about the beauty of algorithms and the ability to create things nearly anyone can use. The inspiration for the rest of my life is to engineer systems that pro‑socially shape the experiences of the people who interact with them.
+
 
 Outside of school and projects: pick-up soccer and fantasy novels.
 
