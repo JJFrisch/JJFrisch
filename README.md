@@ -1,7 +1,7 @@
 # Jake Frischmann (JJFrisch)
 **Computer Science + Physics • ML/RL • Robotics/Controls • Research-minded builder**
 
-Wayne, PA • [JJFrisch@outlook.com](mailto:JJFrisch@outlook.com) • **Resume:** [PDF](docs/Jake_Frischmann_Resume.pdf)
+Wayne, PA • [JJFrisch@outlook.com](mailto:JJFrisch@outlook.com) • **Resume:** [PDF](Jake_Frischmann_Resume.pdf)
 
 ---
 
