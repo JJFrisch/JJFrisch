@@ -27,10 +27,11 @@ Live Demo: https://jjfrisch.github.io/OrbitUMD/
 Demo Video: https://github.com/user-attachments/assets/8e5562c5-d055-4589-ac80-13de5229dd99
 
 ### HensonDay
-Recent project focused on delivering a polished product experience with clear usability goals and clean implementation.
+Campus AR companion app for Henson Week at UMD, designed around event discovery and collectible creatures.
 
-- Built with an emphasis on practical UX decisions and maintainable architecture.
-- Iterated quickly from concept to usable version, with attention to real user flow.
+- Built around a schedule -> map -> collection loop so users can find events, navigate to locations, and track what they have collected.
+- Includes location-aware AR collection interactions with rarity-based collectibles and event-linked details.
+- Focused on clear mobile UX, playful themed visuals, and reliable navigation across event, map, and profile flows.
 
 Repo: https://github.com/JJFrisch/HensonDay
 
