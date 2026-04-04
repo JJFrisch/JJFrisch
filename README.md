@@ -1,15 +1,12 @@
 # Jake Frischmann (JJFrisch)
-**Computer Science + Physics • ML/RL • Robotics/Controls • Research-minded builder**
+**Computer Science + Physics • ML/RL • Robotics/Controls**
 
 Wayne, PA • [JJFrisch@outlook.com](mailto:JJFrisch@outlook.com) • **Resume:** [PDF](Jake_Frischmann_Resume.pdf)
 
 ---
 
 ## About me
-I’m a dual-degree student in **Computer Science & Physics** at the **University of Maryland**. I am passionate about the beauty of algorithms and the ability to create things nearly anyone can use. The inspiration for the rest of my life is to engineer systems that pro‑socially shape the experiences of the people who interact with them.
-
-
-Outside of school and projects: pick-up soccer and fantasy novels.
+I’m a dual-degree student in **Computer Science & Physics** at the **University of Maryland**.
 
 **Languages & tools:** Python, C/C++, Java, C#, Rust, Assembly, JavaScript/TypeScript, Linux, Git  
 **Frameworks & libraries:** PyTorch, TensorFlow, .NET MAUI, Unity, SolidWorks  
