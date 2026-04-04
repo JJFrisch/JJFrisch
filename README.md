@@ -22,8 +22,14 @@ PyTorch • TensorFlow • .NET MAUI • Unity • SolidWorks
 ---
 
 ## Featured projects
-### OrbitUMD
-A recent University of Maryland–focused project. (Details and links coming soon.)
+### OrbitUMD — Unified academic planning for UMD students
+Schedule building · Degree audit · Four-year planning · Gen Ed tracking
+
+- A unified academic planning platform that combines schedule building, long-term degree planning, and dynamic requirement tracking.
+- Designed for **multi-year**, exploratory planning across majors/minors, with supporting data pipelines to keep course and requirement data consistent.
+
+Live demo: https://jjfrisch.github.io/OrbitUMD/
+Demo video: https://github.com/user-attachments/assets/8e5562c5-d055-4589-ac80-13de5229dd99
 
 ---
 
