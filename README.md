@@ -19,10 +19,12 @@ I like projects where I can move from idea to implementation quickly, iterate ba
 ### OrbitUMD
 Unified academic planning for UMD students: schedule building, degree audit, four-year planning, and Gen Ed tracking in one workflow.
 
-- Built to support long-term planning across majors and minors
-- Focused on consistency in requirement and course data so planning outputs stay reliable.
+- Built for multi-year, exploratory planning across majors and minors rather than one-term scheduling only.
+- Unifies workflows that are usually split across separate tools (schedule generation, degree auditing, and long-range planning).
+- Includes structured requirement/curriculum pipelines and catalog sync tooling to keep planning data consistent and reliable.
 
 Live Demo: https://jjfrisch.github.io/OrbitUMD/
+Demo Video: https://github.com/user-attachments/assets/8e5562c5-d055-4589-ac80-13de5229dd99
 
 ### HensonDay
 Recent project focused on delivering a polished product experience with clear usability goals and clean implementation.
