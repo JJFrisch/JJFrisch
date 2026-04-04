@@ -2,7 +2,7 @@
 
 Computer Science + Physics at UMD | ML/RL, robotics, and full-stack product development
 
-Wayne, PA • [JJFrisch@outlook.com](mailto:JJFrisch@outlook.com) • [Website](https://jakefrischman.me) • [Resume (PDF)](Jake_Frischmann_Resume.pdf)
+Wayne, PA • [JJFrisch@outlook.com](mailto:JJFrisch@outlook.com) • [Website](https://jakefrischman.me) • [Resume (PDF)](Jake_Frischmann_CV.pdf)
 
 ## About
 I am a dual-degree student in Computer Science and Physics at the University of Maryland, and I genuinely enjoy building software that is both technically interesting and useful to real people.
