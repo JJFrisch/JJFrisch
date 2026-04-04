@@ -1,87 +1,59 @@
-# Jake Frischmann (JJFrisch)
-**Computer Science + Physics • ML/RL • Robotics/Controls**
+# Jake Frischmann
 
-Wayne, PA • [JJFrisch@outlook.com](mailto:JJFrisch@outlook.com) • **Resume:** [PDF](Jake_Frischmann_Resume.pdf) • **Website:** https://jjfrisch.github.io/
+Computer Science + Physics at UMD | ML/RL, robotics, and full-stack product development
 
----
+Wayne, PA • [JJFrisch@outlook.com](mailto:JJFrisch@outlook.com) • [Website](https://jakefrischman.me) • [Resume (PDF)](Jake_Frischmann_Resume.pdf)
 
-## Overview
-I’m a dual-degree student in **Computer Science & Physics** at the **University of Maryland**. 
+## About
+I am a dual-degree student in Computer Science and Physics at the University of Maryland, and I genuinely enjoy building software that is both technically interesting and useful to real people.
 
-**Core interests**
-- Reinforcement learning & search (planning, self-play, evaluation)
-- Robotics/controls (prototyping, actuation, experimentation)
-- Data analysis/visualization and algorithm design
+My favorite work usually sits at the intersection of:
+- learning systems (RL, search, experimentation)
+- interactive products (web/mobile/game development)
+- engineering-heavy prototyping (robotics and controls)
 
-**Languages & tools**
-Python • C/C++ • Java • C# • Rust • Assembly • TypeScript/JavaScript • Linux • Git
+I like projects where I can move from idea to implementation quickly, iterate based on feedback, and keep improving the system over time.
 
-**Frameworks & libraries**
-PyTorch • TensorFlow • .NET MAUI • Unity • SolidWorks
+## Featured Projects
 
----
+### OrbitUMD
+Unified academic planning for UMD students: schedule building, degree audit, four-year planning, and Gen Ed tracking in one workflow.
 
-## Featured projects
-### OrbitUMD — Unified academic planning for UMD students
-Schedule building · Degree audit · Four-year planning · Gen Ed tracking
+- Built to support long-term planning across majors and minors
+- Focused on consistency in requirement and course data so planning outputs stay reliable.
 
-- A unified academic planning platform that combines schedule building, long-term degree planning, and dynamic requirement tracking.
-- Designed for **multi-year**, exploratory planning across majors/minors, with supporting data pipelines to keep course and requirement data consistent.
+Live Demo: https://jjfrisch.github.io/OrbitUMD/
 
-Live demo: https://jjfrisch.github.io/OrbitUMD/
-Demo video: https://github.com/user-attachments/assets/8e5562c5-d055-4589-ac80-13de5229dd99
+### HensonDay
+Recent project focused on delivering a polished product experience with clear usability goals and clean implementation.
 
----
+- Built with an emphasis on practical UX decisions and maintainable architecture.
+- Iterated quickly from concept to usable version, with attention to real user flow.
 
-### RoadTrip — Route planning + trip tooling
-- Trip-planning project focused on turning destinations into an actionable plan: building itineraries, organizing stops, and exploring routing/constraint ideas (time, distance, and priorities).
-- Built as a portfolio piece with an emphasis on clear UX, iterative scope, and real-world problem framing.
+Repo: https://github.com/JJFrisch/HensonDay
 
-Repo: https://github.com/JJFrisch/RoadTrip
+### BlokusDuo
+AI agents for a competitive board game using PPO + MCTS + CNN evaluation.
 
----
-
-### BlokusDuo — AI agents (PPO + MCTS + CNN)
-**2024** • Python / PyTorch
-- Built agents using **Proximal Policy Optimization (PPO)** and **Monte Carlo Tree Search (MCTS)** with CNN-based evaluation/policy components.
-- Ran large-scale self-play experiments and analyzed strategy evolution in a competitive, spatial board game.
-
-Write-up: https://docs.google.com/document/d/1t95HiT_Vk48AHe5BSArWpV6ObkvVYfmjIF5mwMdtEJw/edit?usp=sharing
+- Implemented Proximal Policy Optimization and Monte Carlo Tree Search pipelines in PyTorch.
+- Ran self-play experiments and evaluated strategy changes over training cycles.
 
 Repo: https://github.com/JJFrisch/BlokusDuo
 
----
+## Tech Stack
+Languages: Python, C/C++, Java, C#, Rust, Assembly, TypeScript/JavaScript
 
-### MazeEscape — Cross-platform maze puzzle game (.NET MAUI)
-**2023–present** • C# / .NET MAUI
-- Cross-platform puzzle game with campaign progression and daily mazes.
-- Emphasis on maze generation/solving and extensible progression content (skins, worlds, unlocks).
+Tools and frameworks: PyTorch, TensorFlow, .NET MAUI, Unity, Linux, Git, SolidWorks
 
-Repo: https://github.com/JJFrisch/MazeEscape
-
----
-
-### SpiRobControls — Soft robotics prototyping + actuation experiments
-**2025** • CAD / 3D printing / Arduino
-- Internship work with Drexel’s Zheng Research Lab on soft robotic actuation prototypes and documentation.
-
-Repo: https://github.com/JJFrisch/SpiRobControls
-
----
-
-## Additional work
+## More Work
+- RoadTrip: https://github.com/JJFrisch/RoadTrip
+- MazeEscape: https://github.com/JJFrisch/MazeEscape
+- SpiRobControls: https://github.com/JJFrisch/SpiRobControls
 - Fake News Risk Identification: https://github.com/JJFrisch/Fake-News-Risk-Identification
 - Medication Management (UI prototype): https://github.com/JJFrisch/Medication_Management_Windows
 
----
+## Contact
+I am always interested in collaborating on ambitious projects in ML, robotics, and software products.
 
-## GitHub stats
-![Jake's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JJFrisch&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JJFrisch&layout=compact&theme=radical)
-
----
-
-## Connect
-I’m open to collaboration, research discussions, and project work.
+- Website: https://jakefrischman.me
 - Email: [JJFrisch@outlook.com](mailto:JJFrisch@outlook.com)
-- Website: https://jjfrisch.github.io/
