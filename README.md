@@ -6,7 +6,7 @@ Wayne, PA • [JJFrisch@outlook.com](mailto:JJFrisch@outlook.com) • **Resume:*
 ---
 
 ## Overview
-I’m a dual-degree student in **Computer Science & Physics** at the **University of Maryland**. I build software at the intersection of **machine learning**, **robotics/controls**, and **product-focused engineering**.
+I’m a dual-degree student in **Computer Science & Physics** at the **University of Maryland**. 
 
 **Core interests**
 - Reinforcement learning & search (planning, self-play, evaluation)
