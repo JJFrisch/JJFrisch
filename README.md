@@ -4,11 +4,11 @@ CS + Physics @ UMD | Dean's List | Building since high school
 
 Wayne, PA &nbsp;·&nbsp; [JJFrisch@outlook.com](mailto:JJFrisch@outlook.com) &nbsp;·&nbsp; [jakefrischmann.me](https://jakefrischmann.me) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/jake-frischmann)
 
----
+
 
 I'm a freshman at UMD studying Computer Science and Applied Physics, with a minor in Quantum Science and Engineering. I write about what I build at https://jakefrischmann.me. Outside of that, I am always playing soccer, and I run a fantasy book club at UMD, which is where I get most of my DM's Companion test cases.
 
----
+
 
 ## Featured Projects
 
@@ -42,7 +42,7 @@ iOS app that generates full multi-day trip itineraries using GPT-4, integrated w
 
 `SwiftUI` `GPT-4` `REST APIs` `CoreData`
 
----
+
 
 ## Research
 
@@ -52,18 +52,18 @@ iOS app that generates full multi-day trip itineraries using GPT-4, integrated w
 
 **Screen Time and Adolescent Wellbeing** (2024-2025) — Independent behavioral study, n = 140, linear regression, a = 0.01, statistically significant results.
 
----
+
 
 ## More Projects
 
 | Project | Stack | Notes |
-|---------|-------|-------|
+||-|-|
 | [Fake News Risk Identifier](https://github.com/JJFrisch/Fake-News-Risk-Identification) | Python, XGBoost, TensorFlow | NLP classifier, 85%+ accuracy target |
 | [Medication Management App](https://github.com/JJFrisch/Medication_Management_Windows) | React Native, TypeScript | HCI-driven adherence tracker |
 | [SpiRobControls](https://github.com/JJFrisch/SpiRobControls) | G-code, SolidWorks | Fabrication for Drexel soft robotics research |
 | [Maze Theories](https://github.com/JJFrisch/Maze-Theories) | Python, Jupyter | Graph theory on maze generation and solving |
 
----
+
 
 ## Stack
 
@@ -75,7 +75,7 @@ iOS app that generates full multi-day trip itineraries using GPT-4, integrated w
 
 **Web / Mobile:** SvelteKit · React · React Native · SwiftUI · .NET MAUI · REST APIs · Supabase
 
----
+
 
 ## In Development
 
@@ -83,6 +83,6 @@ iOS app that generates full multi-day trip itineraries using GPT-4, integrated w
 
 **DM's Companion** — AI co-pilot for tabletop RPG Dungeon Masters. NPC voices, location flavor, and lore on demand. RAG-backed, minimal friction, table-ready prose in seconds.
 
----
+
 
 Open to research and SWE internships. Reach me at [JJFrisch@outlook.com](mailto:JJFrisch@outlook.com) or [jakefrischmann.me](https://jakefrischmann.me).
