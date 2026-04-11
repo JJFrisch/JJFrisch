@@ -6,9 +6,7 @@ Wayne, PA &nbsp;·&nbsp; [JJFrisch@outlook.com](mailto:JJFrisch@outlook.com) &nb
 
 ---
 
-I build software that solves real problems and ships. My work runs across machine learning research, robotics, and full-stack product development. I care about technical depth and about things actually working.
-
-Currently: freshman at UMD pursuing dual B.S. degrees in Computer Science and Physics. GPA 3.85. Accelerated B.S./M.S. CS track through 2029.
+I'm a freshman at UMD studying Computer Science and Applied Physics, with a minor in Quantum Science and Engineering. I write about what I build at https://jakefrischmann.me. Outside of that, I am always playing soccer, and I run a fantasy book club at UMD, which is where I get most of my DM's Companion test cases.
 
 ---
 
