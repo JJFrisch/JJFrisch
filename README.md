@@ -1,62 +1,90 @@
 # Jake Frischmann
 
-Computer Science + Physics at UMD | ML/RL, robotics, and full-stack product development
+CS + Physics @ UMD | Dean's List | Building since high school
 
-Wayne, PA • [JJFrisch@outlook.com](mailto:JJFrisch@outlook.com) • [Website](https://jakefrischman.me) • [Resume (PDF)](Jake_Frischmann_CV.pdf)
+Wayne, PA &nbsp;·&nbsp; [JJFrisch@outlook.com](mailto:JJFrisch@outlook.com) &nbsp;·&nbsp; [jakefrischmann.me](https://jakefrischmann.me) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/jake-frischmann)
 
-## About
-I am a dual-degree student in Computer Science and Physics at the University of Maryland, and I genuinely enjoy building software that is both technically interesting and useful to real people.
+---
 
-My favorite work usually sits at the intersection of:
-- learning systems (RL, search, experimentation)
-- interactive products (web/mobile/game development)
-- engineering-heavy prototyping (robotics and controls)
+I build software that solves real problems and ships. My work runs across machine learning research, robotics, and full-stack product development. I care about technical depth and about things actually working.
 
-I like projects where I can move from idea to implementation quickly, iterate based on feedback, and keep improving the system over time.
+Currently: freshman at UMD pursuing dual B.S. degrees in Computer Science and Physics. GPA 3.85. Accelerated B.S./M.S. CS track through 2029.
+
+---
 
 ## Featured Projects
 
-### OrbitUMD
-Unified academic planning for UMD students: schedule building, degree audit, four-year planning, and Gen Ed tracking in one workflow.
+### [OrbitUMD](https://github.com/JJFrisch/OrbitUMD-Public) &nbsp;·&nbsp; [Live](https://orbitumd.com)
+Degree-planning platform for UMD students. Course lookup, degree audit, four-year planning, and Gen Ed tracking in one place. Built to fix real gaps in UMD's official tooling.
 
-- Built for multi-year, exploratory planning across majors and minors rather than one-term scheduling only.
-- Unifies workflows that are usually split across separate tools (schedule generation, degree auditing, and long-range planning).
-- Includes structured requirement/curriculum pipelines and catalog sync tooling to keep planning data consistent and reliable.
+`SvelteKit` `TypeScript` `Supabase` `GitHub Actions`
 
-Live Demo: https://jjfrisch.github.io/OrbitUMD/
-Demo Video: https://github.com/user-attachments/assets/8e5562c5-d055-4589-ac80-13de5229dd99
+### HensonDay &nbsp;·&nbsp; [Repo](https://github.com/JJFrisch/HensonDay)
+AR campus events app built with UMD's AppDev club. Players discover campus events through location-aware AR creatures tied to real physical spots. ARCore handles world tracking and spatial anchors; SwiftUI drives the native interface.
 
-### HensonDay
-Campus AR companion app for Henson Week at UMD, designed around event discovery and collectible creatures.
+`ARCore` `SwiftUI` `iOS`
 
-- Built around a schedule -> map -> collection loop so users can find events, navigate to locations, and track what they have collected.
-- Includes location-aware AR collection interactions with rarity-based collectibles and event-linked details.
-- Focused on clear mobile UX, playful themed visuals, and reliable navigation across event, map, and profile flows.
+### [Maze Escape Pathbound](https://jjfrisch.github.io/MazeEscape/) &nbsp;·&nbsp; [mazeescapepathbound.com](https://mazeescapepathbound.com)
+Cross-platform puzzle game with collectible chests, unlockable skins, and daily modes. Deployed on Windows, macOS, iOS, Android, and the web. Touch, keyboard, and swipe controls.
 
-Repo: https://github.com/JJFrisch/HensonDay
+`.NET MAUI` `SvelteKit` `C#`
 
-### BlokusDuo
-AI agents for a competitive board game using PPO + MCTS + CNN evaluation.
+### [BlokusDuo](https://github.com/JJFrisch/BlokusDuo)
+Deep RL research from the Pennsylvania Governor's School for the Sciences at CMU. PPO + MCTS self-play agents with CNN board encodings. ~85% win rate over tuned heuristics across 18,000+ GPU-simulated games. Co-authored a peer-reviewed paper on the architecture and results.
 
-- Implemented Proximal Policy Optimization and Monte Carlo Tree Search pipelines in PyTorch.
-- Ran self-play experiments and evaluated strategy changes over training cycles.
+`PyTorch` `Deep RL` `PPO` `MCTS`
 
-Repo: https://github.com/JJFrisch/BlokusDuo
+### [Face Tracking Space Invaders](https://github.com/JJFrisch/face-tracking-space-invaders) &nbsp;·&nbsp; **1st Place, Hackstoga 2023**
+Dodge game with no keyboard and no mouse. Your body is the controller. Background subtraction turns your silhouette into a live collision mask. dlib correlation tracker locks your face, overlays a spaceship. Smiling on a hit gives you a 50% survival chance.
 
-## Tech Stack
-Languages: Python, C/C++, Java, C#, Rust, Assembly, TypeScript/JavaScript
+`Python` `OpenCV` `dlib` `cvzone`
 
-Tools and frameworks: PyTorch, TensorFlow, .NET MAUI, Unity, Linux, Git, SolidWorks
+### [RoadTrip](https://github.com/JJFrisch/RoadTrip)
+iOS app that generates full multi-day trip itineraries using GPT-4, integrated with Google Maps and Booking.com APIs. CoreLocation and CoreData for offline storage. Handles retries, caching, and rate limits on unreliable connections.
 
-## More Work
-- RoadTrip: https://github.com/JJFrisch/RoadTrip
-- MazeEscape: https://github.com/JJFrisch/MazeEscape
-- SpiRobControls: https://github.com/JJFrisch/SpiRobControls
-- Fake News Risk Identification: https://github.com/JJFrisch/Fake-News-Risk-Identification
-- Medication Management (UI prototype): https://github.com/JJFrisch/Medication_Management_Windows
+`SwiftUI` `GPT-4` `REST APIs` `CoreData`
 
-## Contact
-I am always interested in collaborating on ambitious projects in ML, robotics, and software products.
+---
 
-- Website: https://jakefrischman.me
-- Email: [JJFrisch@outlook.com](mailto:JJFrisch@outlook.com)
+## Research
+
+**Zheng Lab, Drexel University** (2025) — Designed tendon-driven soft robotic manipulators in SolidWorks and built GPU-accelerated soft-body simulations in NVIDIA Isaac Gym.
+
+**PGSS at Carnegie Mellon** (2024) — Led deep RL research team, peer-reviewed publication.
+
+**Screen Time and Adolescent Wellbeing** (2024-2025) — Independent behavioral study, n = 140, linear regression, a = 0.01, statistically significant results.
+
+---
+
+## More Projects
+
+| Project | Stack | Notes |
+|---------|-------|-------|
+| [Fake News Risk Identifier](https://github.com/JJFrisch/Fake-News-Risk-Identification) | Python, XGBoost, TensorFlow | NLP classifier, 85%+ accuracy target |
+| [Medication Management App](https://github.com/JJFrisch/Medication_Management_Windows) | React Native, TypeScript | HCI-driven adherence tracker |
+| [SpiRobControls](https://github.com/JJFrisch/SpiRobControls) | G-code, SolidWorks | Fabrication for Drexel soft robotics research |
+| [Maze Theories](https://github.com/JJFrisch/Maze-Theories) | Python, Jupyter | Graph theory on maze generation and solving |
+
+---
+
+## Stack
+
+**Languages:** Python · C++ · C# · Rust · Swift · TypeScript · SQL · R · Java
+
+**ML / CV:** PyTorch · TensorFlow · Hugging Face · OpenCV · dlib · Deep RL
+
+**Robotics:** SolidWorks · NVIDIA Isaac Gym · ARCore · G-code
+
+**Web / Mobile:** SvelteKit · React · React Native · SwiftUI · .NET MAUI · REST APIs · Supabase
+
+---
+
+## In Development
+
+**Royal Scribe** — Personal writing assistant that learns your voice. Five layers: menu bar, ghost text autocomplete, selection toolbar, sidebar, and command palette. Optimizes for voice consistency, not generic quality.
+
+**DM's Companion** — AI co-pilot for tabletop RPG Dungeon Masters. NPC voices, location flavor, and lore on demand. RAG-backed, minimal friction, table-ready prose in seconds.
+
+---
+
+Open to research and SWE internships. Reach me at [JJFrisch@outlook.com](mailto:JJFrisch@outlook.com) or [jakefrischmann.me](https://jakefrischmann.me).
