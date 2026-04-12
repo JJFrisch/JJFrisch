@@ -1,6 +1,6 @@
 # Jake Frischmann
 
-CS + Physics @ UMD | Dean's List | Building since high school
+CS + Physics @ UMD | Dean's List | Quantum Computing, HCI, ML, Game Dev
 
 Wayne, PA &nbsp;·&nbsp; [JJFrisch@outlook.com](mailto:JJFrisch@outlook.com) &nbsp;·&nbsp; [jakefrischmann.me](https://jakefrischmann.me) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/jake-frischmann)
 
