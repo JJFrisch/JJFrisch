@@ -12,7 +12,7 @@ Outside code: soccer, UMD fantasy book club president, BitCamp quantum track org
 
 ## Currently
 
-- **Orbit** — hub dashboard, institutional outreach ahead of UMD's Elevate → Workday transition
+- **Orbit** - hub dashboard, institutional outreach ahead of UMD's Elevate → Workday transition
 - **LEAD Lab (UMD)** — starting Fall 2026 as an undergraduate RA on SLIDE and the Jacobs CIFAR fellowship projects
 - **Royal Scribe** — macOS writing assistant with voice-consistent ghost text
 - **DM's Companion** — RAG co-pilot for tabletop RPG sessions (tested on my book club campaigns)
