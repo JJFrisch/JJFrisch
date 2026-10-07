@@ -67,15 +67,18 @@ iOS AR scavenger hunt for a live campus initiative. RealityKit world tracking, S
 
 ## Research
 
-**LEAD Lab, University of Maryland** (June 2-26 - present)  
+**LEAD Lab, University of Maryland** (August 2026 - present)  
 Language, Experience, and Development (LEAD) Lab Undergraduate Research Assistant working with Dr. Rachel Romeo, Dr. Jennifer Magnuson 
-University of Maryland
+
 • Stress and Language Influences on Development in Early childhood Study (SLIDE) Research Assistant on a study of how stress and
 language exposure impact child development.
+
 • Administer standardized psychological assessment tools used to evaluate cognitive abilities and behavior in children (e.g. BSRA-3, Matrix
 Reasoning Assessment).
+
 • Build natural language proccesing pipelines and audio processing pipelines for day-long home LENA recordings to analyze stress through
 interactive, linguistic, and conceptual speach features.
+
 • Learning how a reseach lab operates and how porjects are created form the gound up with Dr. Jennifer Magnuson.
 
 **Quantum Rare Cell Recognition** (2026, ongoing)  
