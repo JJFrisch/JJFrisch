@@ -13,7 +13,7 @@ Outside code: soccer, UMD fantasy book club president, BitCamp quantum track org
 ## Currently
 
 - **Orbit** - hub dashboard, institutional outreach ahead of UMD's Elevate → Workday transition
-- **LEAD Lab (UMD)** — starting Fall 2026 as an undergraduate RA on SLIDE and the Jacobs CIFAR fellowship projects
+- **LEAD Lab (UMD)** — starting Fall 2026 as an undergraduate RA on SLIDE
 - **Royal Scribe** — macOS writing assistant with voice-consistent ghost text
 - **DM's Companion** — RAG co-pilot for tabletop RPG sessions (tested on my book club campaigns)
 
@@ -67,8 +67,16 @@ iOS AR scavenger hunt for a live campus initiative. RealityKit world tracking, S
 
 ## Research
 
-**LEAD Lab, University of Maryland** (Fall 2026 – May 2027, upcoming)  
-Undergraduate Research Assistant with Dr. Rachel Romeo (*Language, Experience, and Development* Lab, College of Education). Working on **SLIDE** (Stress and Language Influences on Development in Early childhood): linking moment-to-moment caregiver stress to conversational turns (LENA) and school readiness. Also supporting the **Jacobs CIFAR Research Fellowship** work on neural coupling between teachers and students during classroom learning.
+**LEAD Lab, University of Maryland** (June 2-26 - present)  
+Language, Experience, and Development (LEAD) Lab Undergraduate Research Assistant working with Dr. Rachel Romeo, Dr. Jennifer Magnuson 
+University of Maryland
+• Stress and Language Influences on Development in Early childhood Study (SLIDE) Research Assistant on a study of how stress and
+language exposure impact child development.
+• Administer standardized psychological assessment tools used to evaluate cognitive abilities and behavior in children (e.g. BSRA-3, Matrix
+Reasoning Assessment).
+• Build natural language proccesing pipelines and audio processing pipelines for day-long home LENA recordings to analyze stress through
+interactive, linguistic, and conceptual speach features.
+• Learning how a reseach lab operates and how porjects are created form the gound up with Dr. Jennifer Magnuson.
 
 **Quantum Rare Cell Recognition** (2026, ongoing)  
 Independent quantum ML project benchmarking PennyLane quantum kernels against classical clustering for rare-cell detection in single-cell RNA-seq data. PennyLane, Qiskit, scikit-learn.
